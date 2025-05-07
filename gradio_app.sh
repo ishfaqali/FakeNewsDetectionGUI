@@ -1,0 +1,1 @@
+docker run -p 7860:7860 -e API_URL="http://your-api:8000" gradio_app
